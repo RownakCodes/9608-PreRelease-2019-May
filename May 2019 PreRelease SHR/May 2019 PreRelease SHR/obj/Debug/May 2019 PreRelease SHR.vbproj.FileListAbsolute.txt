@@ -1,0 +1,9 @@
+C:\Users\MMS\Desktop\Rahbar\May 2019 PreRelease SHR\May 2019 PreRelease SHR\bin\Debug\May 2019 PreRelease SHR.exe.config
+C:\Users\MMS\Desktop\Rahbar\May 2019 PreRelease SHR\May 2019 PreRelease SHR\bin\Debug\May 2019 PreRelease SHR.exe
+C:\Users\MMS\Desktop\Rahbar\May 2019 PreRelease SHR\May 2019 PreRelease SHR\bin\Debug\May 2019 PreRelease SHR.pdb
+C:\Users\MMS\Desktop\Rahbar\May 2019 PreRelease SHR\May 2019 PreRelease SHR\bin\Debug\May 2019 PreRelease SHR.xml
+C:\Users\MMS\Desktop\Rahbar\May 2019 PreRelease SHR\May 2019 PreRelease SHR\obj\Debug\May_2019_PreRelease_SHR.Resources.resources
+C:\Users\MMS\Desktop\Rahbar\May 2019 PreRelease SHR\May 2019 PreRelease SHR\obj\Debug\May 2019 PreRelease SHR.vbproj.GenerateResource.Cache
+C:\Users\MMS\Desktop\Rahbar\May 2019 PreRelease SHR\May 2019 PreRelease SHR\obj\Debug\May 2019 PreRelease SHR.exe
+C:\Users\MMS\Desktop\Rahbar\May 2019 PreRelease SHR\May 2019 PreRelease SHR\obj\Debug\May 2019 PreRelease SHR.xml
+C:\Users\MMS\Desktop\Rahbar\May 2019 PreRelease SHR\May 2019 PreRelease SHR\obj\Debug\May 2019 PreRelease SHR.pdb
